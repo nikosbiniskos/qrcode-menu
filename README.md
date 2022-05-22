@@ -6,7 +6,10 @@
 
 2.After scanning QR code a menu button will appear and by clicking on it will open that restaurant's menu card.
 
-![Screenshot from 2022-05-22 15-57-02](https://user-images.githubusercontent.com/106017368/169696216-1fa3735f-d26b-495c-9d1b-61138ee475a1.png)
+
+
+https://user-images.githubusercontent.com/106017368/169698988-533178bc-e02d-4fb9-94d0-3612ccdda394.mp4
+
 
 
 ![Screenshot from 2022-05-22 15-57-24](https://user-images.githubusercontent.com/106017368/169696260-5d5f2095-eca8-42e1-88b0-42d53be836ad.png)
